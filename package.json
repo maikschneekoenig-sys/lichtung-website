@@ -1,0 +1,28 @@
+{
+  "name": "die-lichtung",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev --host 0.0.0.0",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview --host 0.0.0.0",
+    "postinstall": "nuxt prepare",
+    "typecheck": "nuxt typecheck",
+    "assets:optimize": "node scripts/optimize-images.mjs"
+  },
+  "dependencies": {
+    "nuxt": "^4.5.2",
+    "vue": "^3.5.0",
+    "vue-router": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "sharp": "^0.35.4",
+    "typescript": "^5.9.0",
+    "vue-tsc": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
