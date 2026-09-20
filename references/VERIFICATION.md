@@ -25,7 +25,7 @@ Keine E-Mail versendet und keine Veröffentlichung vorgenommen.
 - Bei `prefers-reduced-motion: reduce` kein automatischer Wechsel; Pause-/Start-Schaltfläche ausgeblendet, manuelle Navigation weiterhin verfügbar.
 - Wann, Wo und Wie stehen direkt im Hero. Keine externen Links im Seiteninhalt; Adresse als Text.
 - Inhalte gemäß Nutzerkorrekturen: Stefanie und Maik kannten sich vor Aurora; gemeinsame bewusste Kursentscheidung. Steingrill, warme Kleidung und Sitzdecken sowie Hinweis auf das nicht barrierefreie Gelände berücksichtigt.
-- Rückmeldung an Maik per WhatsApp zur Planung der Wassermenge. Grillzeug und Softdrinks bringen die Gäste mit; Feuerholz und Wasser organisieren die Gastgeber.
+- Rückmeldung an Maik per Telegram zur Planung der Wassermenge. Grillzeug und Softdrinks bringen die Gäste mit; Feuerholz und Wasser organisieren die Gastgeber.
 - Eigenständige Seitenbeschreibung, Titel, Vorschaubild und Favicon geprüft. `noindex, nofollow` gesetzt.
 - Axe-Prüfung der vereinfachten Fassung bei 390 Pixeln: 0 erkannte Verstöße. Keine JavaScript-Laufzeitfehler.
 - Lichtung-Seite bei 390 und 1440 Pixeln visuell geprüft; vorhandenes Template und Verhalten unverändert übernommen. Kein Link auf `/grillabend` auf der Hauptseite.

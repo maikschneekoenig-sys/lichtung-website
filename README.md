@@ -38,7 +38,7 @@ Der Kontakt öffnet das E-Mail-Programm mit `ankommen@lichtung.be`. Der Kopierbu
 
 Die Website wird über die Git-Integration auf Vercel veröffentlicht. Der Produktionszweig ist `main`; die Domain ist https://www.lichtung.be. Inhalte für Impressum und Datenschutz wurden nicht mitgeliefert und sind nicht erfunden worden.
 
-Die Grillabend-Seite ist unabhängig vom Lichtung-Projekt. Rückmeldungen erfolgen per WhatsApp an Maik, damit genügend Wasser mitgebracht werden kann. Grillzeug, Softdrinks, ausreichend warme Kleidung und Decken zum Sitzen bringen die Gäste selbst mit. Der Hinweis auf das nicht barrierefreie Gelände steht direkt beim Treffpunkt. Die Foto-Slideshow lässt sich pausieren und manuell bedienen; bei reduzierter Bewegung startet sie nicht automatisch. Die Seite ist mit `noindex, nofollow` gekennzeichnet, bleibt aber für alle mit dem Link öffentlich erreichbar. Beide Seiten werden beim Build vorgerendert.
+Die Grillabend-Seite ist unabhängig vom Lichtung-Projekt. Rückmeldungen erfolgen per Telegram an Maik, damit genügend Wasser mitgebracht werden kann. Grillzeug, Softdrinks, ausreichend warme Kleidung und Decken zum Sitzen bringen die Gäste selbst mit. Der Hinweis auf das nicht barrierefreie Gelände steht direkt beim Treffpunkt. Die Foto-Slideshow lässt sich pausieren und manuell bedienen; bei reduzierter Bewegung startet sie nicht automatisch. Die Seite ist mit `noindex, nofollow` gekennzeichnet, bleibt aber für alle mit dem Link öffentlich erreichbar. Beide Seiten werden beim Build vorgerendert.
 
 ## Gestaltung und Quellen
 

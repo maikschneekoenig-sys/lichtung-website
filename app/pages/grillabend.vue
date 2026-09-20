@@ -125,7 +125,7 @@ onBeforeUnmount(() => {
           </section>
           <section aria-labelledby="anmeldung-title">
             <h2 id="anmeldung-title">Gebt Maik kurz Bescheid</h2>
-            <p>Meldet euch bitte <strong>bei Maik per WhatsApp</strong>, wenn ihr dabei seid, damit wir genügend Wasser für alle mitbringen können.</p>
+            <p>Meldet euch bitte <strong>bei Maik per Telegram</strong>, wenn ihr dabei seid, damit wir genügend Wasser für alle mitbringen können.</p>
           </section>
         </div>
       </div>
