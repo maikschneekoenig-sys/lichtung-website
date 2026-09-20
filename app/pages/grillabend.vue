@@ -1,6 +1,6 @@
 <script setup lang="ts">
-const title = 'Aurora-Grillabend · 10. Oktober am Römerbrünnchen';
-const description = 'Ein persönliches Treffen mit Menschen aus dem Aurora-Kurs. Samstag, 10. Oktober, ab 15 Uhr an der Grillhütte Römerbrünnchen in Saarbrücken. Mit Stefanie & Maik.';
+const title = 'Aurora-Grillabend · 24. Oktober am Römerbrünnchen';
+const description = 'Ein persönliches Treffen mit Menschen aus dem Aurora-Kurs. Samstag, 24. Oktober, ab 15 Uhr an der Grillhütte Römerbrünnchen in Saarbrücken. Mit Stefanie & Maik.';
 useSeoMeta({
   title, description, ogTitle: title, ogDescription: description,
   ogType: 'website', ogLocale: 'de_DE',
@@ -70,7 +70,7 @@ onBeforeUnmount(() => {
           <dl class="g-facts">
             <div>
               <dt>Wann?</dt>
-              <dd><strong>Samstag, 10. Oktober · ab 15 Uhr</strong></dd>
+              <dd><strong>Samstag, 24. Oktober · ab 15 Uhr</strong></dd>
             </div>
             <div>
               <dt>Wo?</dt>
